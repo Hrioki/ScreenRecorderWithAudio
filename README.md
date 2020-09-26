@@ -70,11 +70,6 @@ ReplayFileUtil.filePath()
 
 Please feel free to contribute to the project :) 
 
-
-## Author
-
-Ajaysainisd, ajaysainisd@gmail.com
-
 ## License
 
 ScreenRecorderWithAudio is available under the MIT license. See the LICENSE file for more info.
